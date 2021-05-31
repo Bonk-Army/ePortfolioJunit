@@ -1,16 +1,12 @@
 package example2;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
 
 public class Customer {
-    private String name;
-    private List<Book> rentedBooks;
+    private final String name;
+    private final List<Book> rentedBooks;
 
     public Customer(String name) {
         this.name = name;

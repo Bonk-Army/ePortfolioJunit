@@ -14,14 +14,14 @@ public class Calculator {
         this.y = y;
     }
 
+    public int add(int x, int y) {
+        return x + y;
+    }
+
     public int add() throws UndefinedException {
         if (this.x == null || this.y == null) {
             throw new UndefinedException();
         }
-        return this.x + this.y;
-    }
-
-    public int add(int x, int y) {
-        return x + y;
+        return add(this.x, this.y);
     }
 }

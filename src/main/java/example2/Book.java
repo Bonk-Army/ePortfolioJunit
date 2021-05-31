@@ -3,9 +3,9 @@ package example2;
 import java.util.Date;
 
 public class Book {
-    private String title;
-    private String author;
-    private int pages;
+    private final String title;
+    private final String author;
+    private final int pages;
     private Date returnDate;
 
     public Book(String title, String author, int pages) {
