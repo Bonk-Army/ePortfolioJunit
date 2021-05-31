@@ -9,4 +9,7 @@ Junit 5 is a unit test framework for Java applications. To use this for your Jav
 Here you can find the [documentation](https://junit.org/junit5/docs/current/user-guide/#overview).
 Important things to know:
 - [Annotations](https://junit.org/junit5/docs/current/user-guide/#writing-tests-annotations)
-- [Assertions](https://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions)
+- [Assertions](https://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions)+
+
+## Code Coverage
+[![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://codecov.io/)
