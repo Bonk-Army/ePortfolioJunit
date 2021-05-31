@@ -1,4 +1,4 @@
-# E-Portfolio Junit
+# E-Portfolio JUnit
 
 Here you can find the [slides](https://github.com/Krissi005/ePortfolioJunit/blob/master/JUnit.pdf) and [code samples](https://github.com/Krissi005/ePortfolioJunit/tree/master/src/main/java). Here you can find all [tests](https://github.com/Krissi005/ePortfolioJunit/tree/master/src/test/java).
 
